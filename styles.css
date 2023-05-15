@@ -1,0 +1,40 @@
+body{   
+    background-color: rgb(107, 134, 214)
+}
+h1{   
+        text-align: center;
+        text-transform:capitalize;
+        border: 2px solid teal;
+        border-radius:10px; 
+        color: dodgerblue; 
+        background-color: bisque;
+    }
+
+    h2{   
+        text-transform:capitalize;
+        color: rgb(179, 43, 72); 
+        background: beige;
+    }
+    ul{   
+        text-transform:capitalize;
+        color:rgb(245, 243, 243);
+    }
+
+button {   
+    background-color: rgb(241, 241, 245);
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+button:hover {   
+    background-color: brown;
+}
+}
+imgkanu.jpg {   
+    width: 10vw;
+    height: 10;
+    max-width: 50px;
+    max-height: 50 px;
+}
